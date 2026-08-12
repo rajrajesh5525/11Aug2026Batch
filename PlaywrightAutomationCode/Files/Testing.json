@@ -1,0 +1,30 @@
+{
+    "Testing": {
+        "Name": "Rajesh",
+        "Email": "Testing@gmail.com",
+        "Phone": "8523689525",
+        "Address": "Veldanda",
+        "Wikipidia": "playwright"
+    },
+    "Testing1": {
+        "Name": "Veldanda",
+        "Email": "Veldanda@gmail.com",
+        "Phone": "8523689525",
+        "Address": "Veldanda",
+        "Wikipidia": "Selenium"
+    },
+    "Testing2": {
+        "Name": "Java",
+        "Email": "Java@gmail.com",
+        "Phone": "9522365865",
+        "Address": "Veldanda",
+        "Wikipidia": "Automation"
+    },
+    "CredentialsOrangeHRM": {
+        "userName": "Admin",
+        "password": "admin123",
+        "url": "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login",
+        "Title": "OrangeHRM",
+        "OrangeFYP": "Rajesh"
+    }
+}

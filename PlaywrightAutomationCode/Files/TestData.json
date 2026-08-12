@@ -1,0 +1,23 @@
+{
+    "TestData": {
+        "Name": "Livetect",
+        "Email": "Livetect@gmail.com",
+        "Phone": "85256845258",
+        "Address": "Hyderabad",
+        "Wikipidia": "playwright"
+    },
+     "TestData1": {
+        "Name": "Rajesh",
+        "Email": "Rajesh@gmail.com",
+        "Phone": "85256845258",
+        "Address": "Baglore",
+        "Wikipidia": "Testing"
+    },
+     "TestData2": {
+        "Name": "Shanmukha",
+        "Email": "Shanmukha@gmail.com",
+        "Phone": "85256845258",
+        "Address": "Chennai",
+        "Wikipidia": "Quality"
+    }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "playwrightsession",
+  "version": "1.0.0",
+  "description": "this is a playwright automation project",
+  "license": "ISC",
+  "author": "test",
+  "type": "commonjs",
+  "main": "index.js",
+  "keywords": [
+    "pw",
+    "ts",
+    "js"
+  ],
+  "scripts": {
+    "test": "cucumber-js test"
+  },
+  "devDependencies": {
+    "@cucumber/cucumber": "^13.2.1",
+    "@cucumber/messages": "^34.2.0",
+    "@playwright/test": "^1.61.1",
+    "@types/node": "^26.1.1",
+    "allure-commandline": "^2.43.0",
+    "allure-cucumberjs": "^3.10.2",
+    "allure-js-commons": "^3.10.2",
+    "allure-playwright": "^3.10.2",
+    "cucumber-html-reporter": "^5.0.2",
+    "dotenv": "^17.4.2",
+    "playwright": "^1.61.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "node": "^26.5.0"
+  }
+}

@@ -1,0 +1,71 @@
+[
+  {
+    "description": "",
+    "elements": [
+      {
+        "description": "",
+        "id": "page-object-model;verify-forgot-your-password-functionality-for-the-orangehrm-application",
+        "keyword": "Scenario",
+        "line": 16,
+        "name": "Verify forgot your password functionality for the OrangeHRM application",
+        "steps": [
+          {
+            "result": {
+              "status": "passed",
+              "duration": 710290799
+            },
+            "keyword": "Before",
+            "hidden": true
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 3446903299
+            },
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "I launch the OrangeHRM application",
+            "match": {
+              "location": "PlaywrightAutomationCode\\StepDefinition\\OrangeHRMapplication.ts:14"
+            }
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 9115569499
+            },
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 17,
+            "name": "I Verify forgot your password functionality for the OrangeHRM application",
+            "match": {
+              "location": "PlaywrightAutomationCode\\StepDefinition\\OrangeHRMapplication.ts:46"
+            }
+          },
+          {
+            "result": {
+              "status": "passed",
+              "duration": 206249499
+            },
+            "keyword": "After",
+            "hidden": true
+          }
+        ],
+        "tags": [
+          {
+            "name": "@method",
+            "line": 15
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "id": "page-object-model",
+    "line": 1,
+    "keyword": "Feature",
+    "name": "Page object model",
+    "tags": [],
+    "uri": "PlaywrightAutomationCode\\FeatureFiles\\POM.feature"
+  }
+]
